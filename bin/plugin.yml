@@ -1,0 +1,6 @@
+main: me.xace.ffa.Main
+author: CanYilmaz
+version: 0.1
+name: XaceV01SJB
+commands:
+   rank:
