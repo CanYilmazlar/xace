@@ -1,1 +1,2 @@
 # xace
+Xace Private Plugin
